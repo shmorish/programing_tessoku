@@ -4,8 +4,8 @@
 
 ## 問題一覧
 
-- [競技プログラミングの鉄則　演習問題集] (https://atcoder.jp/contests/tessoku-book)
-- [本のリンク] (https://book.mynavi.jp/ec/products/detail/id=131288)
+- [競技プログラミングの鉄則　演習問題集](https://atcoder.jp/contests/tessoku-book)
+- [本のリンク](https://book.mynavi.jp/ec/products/detail/id=131288)
 ...
 
 ## 解答の言語
